@@ -62,7 +62,7 @@ Based on the findings we came up with the following questions:
 
 ## Result
 
-The full results can be found here:
+The full interview results can be found here:
 
 - [Interview Jill](./assets/interviews/interview-jill.pdf)
 - [Interview Henriët](./assets/interviews/interview-henriet.pdf)
