@@ -1,0 +1,8 @@
+{
+  "label": "Blind Edu",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This project is split up based on the learning outcomes. Each section has all the items that proof the learning outcomes."
+  }
+}
