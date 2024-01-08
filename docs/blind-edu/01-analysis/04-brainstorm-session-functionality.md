@@ -20,4 +20,10 @@ Based with the functionality we already have and the main research question in m
 
 ## Conclusion
 
-Cooming soon
+Based on the brainstorm session we planned to do the following things for the next test session (11 Januray):
+
+1. Bigger torso.
+2. Sensors that sense touch through the plastic surface.
+3. Implement the figma designs in the teacher application.
+4. Create a hand-over document for the next group.
+5. Implement the provided feedback Henriët gave us with the first user test.
