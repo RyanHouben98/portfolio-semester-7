@@ -12,7 +12,7 @@ We wanted to validate our findings what we gathered from the upfront research we
 
 Based on the findings we came up with the following questions:
 
-**Interview Jill**
+**Interview Questions**
 
 **Background**
 
