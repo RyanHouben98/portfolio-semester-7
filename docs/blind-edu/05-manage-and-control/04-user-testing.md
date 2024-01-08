@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 import ReactPlayer from 'react-player'
 
 # User testing
