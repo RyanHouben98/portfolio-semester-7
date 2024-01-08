@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Prototype 3
+# Native application
 
 ## Why?
 
