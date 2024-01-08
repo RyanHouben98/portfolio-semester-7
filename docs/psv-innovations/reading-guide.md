@@ -98,10 +98,10 @@ The analysis phase was already clear from the start. Viktor told us about the pr
 
 **Links to portfolio:**
 
-- Debriefing
-- Personas
-- Empathy maps
-- App workflow
+- [Debriefing](./01-analysis/01-debriefing.md)
+- [Personas](./01-analysis/02-personas.md)
+- [Empathy maps](./01-analysis/03-empathy-maps.md)
+- [App workflow](./01-analysis/04-app-workflow.md)
 
 ### Advice
 
@@ -114,8 +114,8 @@ We also advised Victor on the fact that we are making a hybrid solution with rea
 
 **Links to portfolio:**
 
-- Software choices
-- Research document
+- [Software choices](./02-advice/01-software-choices.md)
+- [Research document](./02-advice/02-research-document.md)
 
 ### Design
 
@@ -126,8 +126,8 @@ Because of time shortage Branimir and I agreed on focusing on our strong points.
 
 **Links to portfolio**
 
-- High fidelity design
-- System architecture
+- [High fidelity design](./03-design/01-high-fidelity-designs.md)
+- [System architecture](./03-design/02-software-architecture.md)
 
 ### Realization:
 
@@ -138,9 +138,9 @@ This was my strong point. I made the dashboard and the API that connects everyth
 
 **Links to portfolio:**
 
-- Dashboard
-- Api
-- Application
+- [Dashboard](./04-realisation/02-dashboard.md)
+- [Api](./04-realisation/01-api.md)
+- [Application](./04-realisation/03-application.md)
 
 ### Manage and control:
 
@@ -151,9 +151,9 @@ Because we had to work together with another group, we had to manage everything 
 
 **Links to portfolio**
 
-- Project plan
-- Handover document
-- User testing
+- [Project plan](./05-manage-and-control/01-projectplan.md)
+- [Handover document](./05-manage-and-control/02-hand-over-document.md)
+- [User testing](./05-manage-and-control/03-user-testing.md)
 
 ### Professional skills:
 
@@ -164,5 +164,5 @@ Because we had to work with together with another Advanced Media group this was 
 
 **Links to portfolio:**
 
-- Agile working
-- Feedpulse
+- [Agile working](./06-professional-skills/01-agile-working.md)
+- [Feedpulse](./06-professional-skills/02-feedpulse.md)
