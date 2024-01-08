@@ -97,11 +97,11 @@ It was a real learning process, that’s why I give rate myself proficient.
 
 **Links to portfolio:**
 
-- Upfront research
-- Interviews
-- Brainstorm session (ideation)
-- Brainstorm session (functionality)
-- Personas
+- [Upfront research](./01-analysis/01-upfront-research.md)
+- [Interviews](./01-analysis/02-interviews.md)
+- [Brainstorm session (ideation)](./01-analysis/03-brainstorm-session-ideation.md)
+- [Brainstorm session (functionality)](./01-analysis/04-brainstorm-session-functionality.md)
+- [Personas](./01-analysis/05-personas.md)
 
 ### Advice
 
@@ -114,8 +114,8 @@ Because we really advised Dilana to take another route than just an application,
 
 **Links to portfolio:**
 
-- Advice document
-- Research document
+- [Advice document](./02-advice/01-advice-document.md)
+- [Research document](./02-advice/02-research-document.md)
 
 ### Design
 
@@ -126,9 +126,9 @@ Because I am more into back-end development, this learning outcome was a little 
 
 **Links to portfolio**
 
-- Low fidelity designs
-- High fidelity designs
-- Design report
+- [Low fidelity designs](./03-design/01-low-fidelity-designs.md)
+- [High fidelity designs](./03-design/02-high-fidelity-designs.md)
+- [Design report](./03-design/03-design-report.md)
 
 ### Realization:
 
@@ -141,9 +141,9 @@ Because we not only have an application but also a piece of hardware and have mu
 
 **Links to portfolio:**
 
-- Prototype 1
-- Prototype 2
-- Application
+- [Prototype 1](./04-realisation/01-prototype-1.md)
+- [Prototype 2](./04-realisation/02-prototype-2.md)
+- [Application](./04-realisation/03-native-application.md)
 
 ### Manage and control:
 
@@ -156,10 +156,10 @@ Because we had a lot of contact with stakeholders and did user tests with the ta
 
 **Links to portfolio**
 
-- Project plan
-- Handover document
-- Contact person
-- User tests
+- [Project plan](./05-manage-and-control/01-project-plan.md)
+- [Handover document](./05-manage-and-control/02-handover-document.md)
+- [Contact person](./05-manage-and-control/03-contact-person.md)
+- [User tests](./05-manage-and-control/04-user-testing.md)
 
 ### Professional skills:
 
@@ -172,5 +172,5 @@ Because of the fact I tried to take the leader role and hold the group together 
 
 **Links to portfolio:**
 
-- Agile working
-- Feedpulse
+- [Agile working](./06-professional-skills/01-agile-working.md)
+- [Feedpulse](./06-professional-skills/02-feedpulse.md)
