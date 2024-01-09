@@ -24,9 +24,15 @@ This is a persona for staff members of PSV.
 
 ## Developer
 
+![Persona developer](/img/personas/tester/persona-developer.png)
+
 ## Tester
 
+![Persona tester](/img/personas/tester/persona-tester.png)
+
 ## PSV Staff
+
+![Persona staff](/img/personas/tester/persona-staff.png)
 
 ## Conclusion
 
