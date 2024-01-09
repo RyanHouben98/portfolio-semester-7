@@ -1,9 +1,3 @@
 # Advice Document
 
-## Why?
-
-## How?
-
-## Result
-
-## Conclusion
+Work in progress...

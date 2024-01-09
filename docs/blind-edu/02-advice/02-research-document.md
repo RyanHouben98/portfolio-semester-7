@@ -14,7 +14,7 @@ After that we included all the research we did per research question.
 
 ## Result
 
-- Link to research document
+- [Link to research document](/files/blindedu-research-document.pdf)
 
 ## Conclusion
 
