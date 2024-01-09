@@ -10,6 +10,8 @@ The designs are made in Figma. They only include the application, because that i
 
 ## Result
 
+[Link to figma](https://www.figma.com/file/A3XvoZGC2Sok2hW3yy9s7O/PSV-Mobile?type=design&node-id=0-1&mode=design)
+
 ## Conclusion
 
 With these results we can start developing the application in React Native.
