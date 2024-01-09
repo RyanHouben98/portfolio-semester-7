@@ -14,4 +14,4 @@ The projectplan explains the goal and context of the project. Also the scope and
 
 ## Conclusion
 
-With this project plan we made a agreement of the scap with Dilana. She also now know what to expect on the end of the semester what we will deliver.
+With this project plan we made a agreement of the scope with Dilana. She also now know what to expect on the end of the semester what we will deliver.
