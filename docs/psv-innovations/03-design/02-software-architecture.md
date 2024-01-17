@@ -22,11 +22,9 @@ Next you can zoom in and decompose each container further to identify the major 
 
 ## Result
 
-### System context diagram
-
 ### Container diagram
 
-### Component diagram
+![PSV Architecture](/img/architecture/psv-architecture.png)
 
 ## Conclusion
 
